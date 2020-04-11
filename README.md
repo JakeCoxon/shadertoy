@@ -1,2 +1,0 @@
-# shadertoy
-Created with CodeSandbox
